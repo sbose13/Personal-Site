@@ -27,32 +27,7 @@ body{
 .footer{
   background-color: #66BFBF;
 }
-.btn {
-  background: #127d15;
-  background-image: -webkit-linear-gradient(top, #127d15, #58d15c);
-  background-image: -moz-linear-gradient(top, #127d15, #58d15c);
-  background-image: -ms-linear-gradient(top, #127d15, #58d15c);
-  background-image: -o-linear-gradient(top, #127d15, #58d15c);
-  background-image: linear-gradient(to bottom, #127d15, #58d15c);
-  -webkit-border-radius: 28;
-  -moz-border-radius: 28;
-  border-radius: 28px;
-  font-family: Arial;
-  color: #ffffff;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
 
-.btn:hover {
-  background: #89d992;
-  background-image: -webkit-linear-gradient(top, #89d992, #1e8746);
-  background-image: -moz-linear-gradient(top, #89d992, #1e8746);
-  background-image: -ms-linear-gradient(top, #89d992, #1e8746);
-  background-image: -o-linear-gradient(top, #89d992, #1e8746);
-  background-image: linear-gradient(to bottom, #89d992, #1e8746);
-  text-decoration: none;
-}
 .nav {
   height: 50px;
   width: 100%;
@@ -148,6 +123,29 @@ body{
   border-width: 4px;
   width: 10%;
 }
+
+.container{
+  font-size: 20px;
+}
+.btp{
+  padding: 2% 0%;
+}
+
+#features{
+  padding: 2% 5%;
+}
+
+#features-1{
+  padding: 2% 10%;
+}
+
+#features-2{
+  padding: 10% 10%;
+}
+.skillset{
+  text-align: center;
+  padding: 5%;
+}
 h1{
   font-size: 60px;
   font-family: 'Dancing Script', cursive;
@@ -164,3 +162,4 @@ p{
   color: #25282A;
   font-size: 18px;
 }
+
