@@ -136,7 +136,7 @@ body{
 }
 
 #features-1{
-  padding: 2% 10%;
+  padding: 2% 14%;
 }
 
 #features-2{
@@ -162,4 +162,8 @@ p{
   color: #25282A;
   font-size: 18px;
 }
+.bgimg{
+  opacity: 2.0;
+}
+
 
