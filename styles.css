@@ -23,6 +23,13 @@ body{
   background-color: white;
   margin: auto 100px;
 }
+.project-design{
+  padding: 20px;
+  margin: auto;
+}
+.project-col{
+  padding: 3% 2%;
+}
 .hobbie{
   background-color: #E4F5F9;
   margin: auto;
