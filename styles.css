@@ -86,4 +86,36 @@ p{
   font-size: 18px;
 }
 
+@media(max-width:800px) {
+  .dev-img{
+    width: 45%;
+  }
+  .dev-img1{
+    width: 45%;
+  }
+  .about{
+    margin: auto;
+  }
+  .sbtp{
+    width: 45%;
+  }
+  .foot-last{
+    text-align: center;
+  }
+  p{
+    font-size: 20px;
+    text-align: justify;
+  }
+  h1{
+    font-size: 36px;
+  }
+  h2
+  {
+    font-size: 30px;
+  }
+  h3{
+    font-size: 25px;
+  }
+}
+
 
