@@ -87,6 +87,9 @@ p{
 }
 
 @media(max-width:800px) {
+  .heading-nav{
+    font-size:20px;
+  }
   .dev-img{
     width: 45%;
   }
