@@ -87,6 +87,11 @@ p{
 }
 
 @media(max-width:800px) {
+  .navanv{
+    display: flex;
+    position: fixed;
+    alignment: left;
+  }
   .top-img{
     height:10%;
     width:10%;
