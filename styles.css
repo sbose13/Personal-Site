@@ -100,7 +100,10 @@ p{
     width: 45%;
   }
   .prodes{
-    width:80%;
+    width:100%;
+  }
+  .prodes1{
+    width:75%;
   }
   .foot-last{
     text-align: center;
