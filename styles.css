@@ -88,8 +88,7 @@ p{
 
 @media(max-width:800px) {
   .top-img{
-    height:40;
-    width:40;
+    width:40%;
   }
   .dev-img{
     width: 45%;
